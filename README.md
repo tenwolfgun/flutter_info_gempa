@@ -4,6 +4,6 @@ Informasi gempa terkini berdasarkan data Badan Meteorologi, Klimatologi, dan Geo
 
 ## TODO
 
-- [*] Menampilkan info gempa bumi terkini
-- [*] Menampilkan riwayat gempa bumi
-- [*] Menampilkan notifikasi gempa bumi terkini
+- [x] Menampilkan info gempa bumi terkini
+- [x] Menampilkan riwayat gempa bumi
+- [x] Menampilkan notifikasi gempa bumi terkini
