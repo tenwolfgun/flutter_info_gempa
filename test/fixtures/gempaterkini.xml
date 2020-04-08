@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<Infogempa>
+ <gempa>
+  <Tanggal>22-Mar-20</Tanggal>
+  <Jam>13:48:46 WIB</Jam>
+  <point><coordinates>115.16,-10.96</coordinates></point>
+  <Lintang>10.96 LS</Lintang>
+  <Bujur>115.16 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2b.swf</_symbol>
+  <Wilayah>240 km BaratDaya KUTASELATAN-BALI</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>22-Mar-20</Tanggal>
+  <Jam>12:51:47 WIB</Jam>
+  <point><coordinates>135.63,-2.88</coordinates></point>
+  <Lintang>2.88 LS</Lintang>
+  <Bujur>135.63 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>15 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>71 km BaratLaut NABIRE-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>22-Mar-20</Tanggal>
+  <Jam>10:34:55 WIB</Jam>
+  <point><coordinates>122,1.46</coordinates></point>
+  <Lintang>1.46 LU</Lintang>
+  <Bujur>122 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>92 km TimurLaut BUOL-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>22-Mar-20</Tanggal>
+  <Jam>04:19:40 WIB</Jam>
+  <point><coordinates>141.41,-5.34</coordinates></point>
+  <Lintang>5.34 LS</Lintang>
+  <Bujur>141.41 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>91 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>126 km TimurLaut BOVENDIGOEL-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>19-Mar-20</Tanggal>
+  <Jam>00:45:37 WIB</Jam>
+  <point><coordinates>115.09,-11.25</coordinates></point>
+  <Lintang>11.25 LS</Lintang>
+  <Bujur>115.09 BT</Bujur>
+  <Magnitude>6.6 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>273 km BaratDaya KUTASELATAN-BALI</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>18-Mar-20</Tanggal>
+  <Jam>10:13:30 WIB</Jam>
+  <point><coordinates>127.91,3.03</coordinates></point>
+  <Lintang>3.03 LU</Lintang>
+  <Bujur>127.91 BT</Bujur>
+  <Magnitude>5.5 SR</Magnitude>
+  <Kedalaman>76 Km</Kedalaman>
+  <_symbol>../imagesSWF/k3.swf</_symbol>
+  <Wilayah>117 km BaratLaut DARUBA-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>16-Mar-20</Tanggal>
+  <Jam>17:59:11 WIB</Jam>
+  <point><coordinates>126.47,-1.16</coordinates></point>
+  <Lintang>1.16 LS</Lintang>
+  <Bujur>126.47 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>109 km TimurLaut SANANA-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>16-Mar-20</Tanggal>
+  <Jam>04:05:32 WIB</Jam>
+  <point><coordinates>118.28,-10.72</coordinates></point>
+  <Lintang>10.72 LS</Lintang>
+  <Bujur>118.28 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>147 km BaratDaya KODI-SUMBABARATDAYA-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>14-Mar-20</Tanggal>
+  <Jam>17:42:37 WIB</Jam>
+  <point><coordinates>128.14,2.92</coordinates></point>
+  <Lintang>2.92 LU</Lintang>
+  <Bujur>128.14 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>98 km BaratLaut DARUBA-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>13-Mar-20</Tanggal>
+  <Jam>05:17:00 WIB</Jam>
+  <point><coordinates>138.98,-3.01</coordinates></point>
+  <Lintang>3.01 LS</Lintang>
+  <Bujur>138.98 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>24 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>76 km TimurLaut TOLIKARA-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>12-Mar-20</Tanggal>
+  <Jam>15:03:17 WIB</Jam>
+  <point><coordinates>110.6,-8.99</coordinates></point>
+  <Lintang>8.99 LS</Lintang>
+  <Bujur>110.6 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>15 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>106 km BaratDaya PACITAN-JATIM</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>11-Mar-20</Tanggal>
+  <Jam>06:08:34 WIB</Jam>
+  <point><coordinates>97.09,3.72</coordinates></point>
+  <Lintang>3.72 LU</Lintang>
+  <Bujur>97.09 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>114 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>19 km Tenggara BLANGPIDIE-ACEHBARATDAYA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>10-Mar-20</Tanggal>
+  <Jam>21:06:28 WIB</Jam>
+  <point><coordinates>102.85,-5.89</coordinates></point>
+  <Lintang>5.89 LS</Lintang>
+  <Bujur>102.85 BT</Bujur>
+  <Magnitude>5.8 SR</Magnitude>
+  <Kedalaman>48 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>88 km Tenggara ENGGANO-BENGKULU</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>10-Mar-20</Tanggal>
+  <Jam>17:18:05 WIB</Jam>
+  <point><coordinates>106.62,-6.89</coordinates></point>
+  <Lintang>6.89 LS</Lintang>
+  <Bujur>106.62 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>13 km TimurLaut KAB-SUKABUMI-JABAR</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>07-Mar-20</Tanggal>
+  <Jam>18:35:26 WIB</Jam>
+  <point><coordinates>128.76,-7.49</coordinates></point>
+  <Lintang>7.49 LS</Lintang>
+  <Bujur>128.76 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>154 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>130 km TimurLaut MALUKUBRTDAYA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>07-Mar-20</Tanggal>
+  <Jam>11:37:51 WIB</Jam>
+  <point><coordinates>139.55,-4.16</coordinates></point>
+  <Lintang>4.16 LS</Lintang>
+  <Bujur>139.55 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>37 km TimurLaut YAHUKIMO-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>04-Mar-20</Tanggal>
+  <Jam>20:36:43 WIB</Jam>
+  <point><coordinates>99.44,-3.58</coordinates></point>
+  <Lintang>3.58 LS</Lintang>
+  <Bujur>99.44 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>12 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>173 km BaratDaya TUAPEJAT-SUMBAR</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>29-Feb-20</Tanggal>
+  <Jam>16:28:26 WIB</Jam>
+  <point><coordinates>128.11,3.15</coordinates></point>
+  <Lintang>3.15 LU</Lintang>
+  <Bujur>128.11 BT</Bujur>
+  <Magnitude>5.5 SR</Magnitude>
+  <Kedalaman>141 Km</Kedalaman>
+  <_symbol>../imagesSWF/k3.swf</_symbol>
+  <Wilayah>124 km BaratLaut DARUBA-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Feb-20</Tanggal>
+  <Jam>02:13:04 WIB</Jam>
+  <point><coordinates>125.98,3.73</coordinates></point>
+  <Lintang>3.73 LU</Lintang>
+  <Bujur>125.98 BT</Bujur>
+  <Magnitude>5.7 SR</Magnitude>
+  <Kedalaman>108 Km</Kedalaman>
+  <_symbol>../imagesSWF/k3.swf</_symbol>
+  <Wilayah>55 km TimurLaut TAHUNA-KEP.SANGIHE-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>26-Feb-20</Tanggal>
+  <Jam>14:33:12 WIB</Jam>
+  <point><coordinates>131.11,-7.5</coordinates></point>
+  <Lintang>7.5 LS</Lintang>
+  <Bujur>131.11 BT</Bujur>
+  <Magnitude>6.7 SR</Magnitude>
+  <Kedalaman>28 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>56 km BaratLaut MALUKUTENGGARABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>25-Feb-20</Tanggal>
+  <Jam>03:59:23 WIB</Jam>
+  <point><coordinates>99.92,-1.9</coordinates></point>
+  <Lintang>1.9 LS</Lintang>
+  <Bujur>99.92 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>39 km TimurLaut TUAPEJAT-SUMBAR</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>23-Feb-20</Tanggal>
+  <Jam>10:39:54 WIB</Jam>
+  <point><coordinates>125.27,-0.27</coordinates></point>
+  <Lintang>0.27 LS</Lintang>
+  <Bujur>125.27 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>135 km Tenggara TUTUYAN-BOLTIM-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>23-Feb-20</Tanggal>
+  <Jam>09:08:04 WIB</Jam>
+  <point><coordinates>125.24,-0.23</coordinates></point>
+  <Lintang>0.23 LS</Lintang>
+  <Bujur>125.24 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>130 km Tenggara TUTUYAN-BOLTIM-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>22-Feb-20</Tanggal>
+  <Jam>22:34:47 WIB</Jam>
+  <point><coordinates>126.15,5.43</coordinates></point>
+  <Lintang>5.43 LU</Lintang>
+  <Bujur>126.15 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>169 km BaratLaut MELONGUANE-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>22-Feb-20</Tanggal>
+  <Jam>22:29:51 WIB</Jam>
+  <point><coordinates>126.56,5.46</coordinates></point>
+  <Lintang>5.46 LU</Lintang>
+  <Bujur>126.56 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>162 km BaratLaut MELONGUANE-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>21-Feb-20</Tanggal>
+  <Jam>03:24:29 WIB</Jam>
+  <point><coordinates>129.69,-6.85</coordinates></point>
+  <Lintang>6.85 LS</Lintang>
+  <Bujur>129.69 BT</Bujur>
+  <Magnitude>5.5 SR</Magnitude>
+  <Kedalaman>145 Km</Kedalaman>
+  <_symbol>../imagesSWF/k3.swf</_symbol>
+  <Wilayah>218 km BaratLaut MALUKUTENGGARABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>20-Feb-20</Tanggal>
+  <Jam>16:54:07 WIB</Jam>
+  <point><coordinates>125.8,5.58</coordinates></point>
+  <Lintang>5.58 LU</Lintang>
+  <Bujur>125.8 BT</Bujur>
+  <Magnitude>5.6 SR</Magnitude>
+  <Kedalaman>196 Km</Kedalaman>
+  <_symbol>../imagesSWF/k3.swf</_symbol>
+  <Wilayah>200 km BaratLaut MELONGUANE-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>18-Feb-20</Tanggal>
+  <Jam>13:22:01 WIB</Jam>
+  <point><coordinates>127.9,2.14</coordinates></point>
+  <Lintang>2.14 LU</Lintang>
+  <Bujur>127.9 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>44 km BaratLaut DARUBA-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>16-Feb-20</Tanggal>
+  <Jam>06:00:30 WIB</Jam>
+  <point><coordinates>131.52,-3.34</coordinates></point>
+  <Lintang>3.34 LS</Lintang>
+  <Bujur>131.52 BT</Bujur>
+  <Magnitude>5.8 SR</Magnitude>
+  <Kedalaman>28 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>117 km Tenggara SERAMBAGIANTIMUR-MALUKU</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>15-Feb-20</Tanggal>
+  <Jam>22:36:44 WIB</Jam>
+  <point><coordinates>126.46,1.56</coordinates></point>
+  <Lintang>1.56 LU</Lintang>
+  <Bujur>126.46 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>124 km BaratLaut JAILOLO-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>14-Feb-20</Tanggal>
+  <Jam>01:17:31 WIB</Jam>
+  <point><coordinates>130.67,-6.66</coordinates></point>
+  <Lintang>6.66 LS</Lintang>
+  <Bujur>130.67 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>125 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>161 km BaratLaut MALUKUTENGGARABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>13-Feb-20</Tanggal>
+  <Jam>22:17:28 WIB</Jam>
+  <point><coordinates>113.27,-11.39</coordinates></point>
+  <Lintang>11.39 LS</Lintang>
+  <Bujur>113.27 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>357 km BaratDaya JEMBER-JATIM</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>12-Feb-20</Tanggal>
+  <Jam>17:04:26 WIB</Jam>
+  <point><coordinates>122.49,-1.91</coordinates></point>
+  <Lintang>1.91 LS</Lintang>
+  <Bujur>122.49 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>90 km BaratDaya BANGGAIKEP-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>10-Feb-20</Tanggal>
+  <Jam>04:23:58 WIB</Jam>
+  <point><coordinates>139.01,-1.27</coordinates></point>
+  <Lintang>1.27 LS</Lintang>
+  <Bujur>139.01 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>70 km TimurLaut SARMI-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>08-Feb-20</Tanggal>
+  <Jam>13:51:42 WIB</Jam>
+  <point><coordinates>129.91,-2.85</coordinates></point>
+  <Lintang>2.85 LS</Lintang>
+  <Bujur>129.91 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>11 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>70 km BaratLaut SERAMBAGIANTIMUR-MALUKU</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>08-Feb-20</Tanggal>
+  <Jam>13:36:45 WIB</Jam>
+  <point><coordinates>129.87,-2.82</coordinates></point>
+  <Lintang>2.82 LS</Lintang>
+  <Bujur>129.87 BT</Bujur>
+  <Magnitude>5.6 SR</Magnitude>
+  <Kedalaman>12 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>75 km BaratLaut SERAMBAGIANTIMUR-MALUKU</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>07-Feb-20</Tanggal>
+  <Jam>04:06:31 WIB</Jam>
+  <point><coordinates>117.71,-10.05</coordinates></point>
+  <Lintang>10.05 LS</Lintang>
+  <Bujur>117.71 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>150 km BaratDaya KODI-SUMBABARATDAYA-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>06-Feb-20</Tanggal>
+  <Jam>20:40:07 WIB</Jam>
+  <point><coordinates>126.57,5.44</coordinates></point>
+  <Lintang>5.44 LU</Lintang>
+  <Bujur>126.57 BT</Bujur>
+  <Magnitude>6.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>160 km BaratLaut MELONGUANE-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>06-Feb-20</Tanggal>
+  <Jam>14:10:53 WIB</Jam>
+  <point><coordinates>139.36,-2.58</coordinates></point>
+  <Lintang>2.58 LS</Lintang>
+  <Bujur>139.36 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>13 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>71 km BaratLaut KAB-JAYAPURA-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>06-Feb-20</Tanggal>
+  <Jam>01:12:34 WIB</Jam>
+  <point><coordinates>113.05,-6.43</coordinates></point>
+  <Lintang>6.43 LS</Lintang>
+  <Bujur>113.05 BT</Bujur>
+  <Magnitude>6.3 SR</Magnitude>
+  <Kedalaman>636 Km</Kedalaman>
+  <_symbol>../imagesSWF/h3.swf</_symbol>
+  <Wilayah>69 km TimurLaut BANGKALAN-JATIM</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>04-Feb-20</Tanggal>
+  <Jam>17:40:58 WIB</Jam>
+  <point><coordinates>140.84,-2.81</coordinates></point>
+  <Lintang>2.81 LS</Lintang>
+  <Bujur>140.84 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>17 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>30 km Tenggara JAYAPURA-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>03-Feb-20</Tanggal>
+  <Jam>19:12:39 WIB</Jam>
+  <point><coordinates>125.21,-0.23</coordinates></point>
+  <Lintang>0.23 LS</Lintang>
+  <Bujur>125.21 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>128 km Tenggara TUTUYAN-BOLTIM-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>03-Feb-20</Tanggal>
+  <Jam>18:18:06 WIB</Jam>
+  <point><coordinates>134.16,-4.97</coordinates></point>
+  <Lintang>4.97 LS</Lintang>
+  <Bujur>134.16 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>88 km BaratLaut KEP.ARU-MALUKU</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>02-Feb-20</Tanggal>
+  <Jam>14:19:10 WIB</Jam>
+  <point><coordinates>134.02,-1.39</coordinates></point>
+  <Lintang>1.39 LS</Lintang>
+  <Bujur>134.02 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>52 km Tenggara MANOKWARISEL-PAPUABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>31-Jan-20</Tanggal>
+  <Jam>04:53:05 WIB</Jam>
+  <point><coordinates>99.94,-1.96</coordinates></point>
+  <Lintang>1.96 LS</Lintang>
+  <Bujur>99.94 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>39 km TimurLaut TUAPEJAT-SUMBAR</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>30-Jan-20</Tanggal>
+  <Jam>06:46:55 WIB</Jam>
+  <point><coordinates>126.33,0.69</coordinates></point>
+  <Lintang>0.69 LU</Lintang>
+  <Bujur>126.33 BT</Bujur>
+  <Magnitude>5.8 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>115 km BaratDaya TERNATE-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>24-Jan-20</Tanggal>
+  <Jam>07:50:41 WIB</Jam>
+  <point><coordinates>116.97,-10.11</coordinates></point>
+  <Lintang>10.11 LS</Lintang>
+  <Bujur>116.97 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>151 km Tenggara SUMBAWABARAT-NTB</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>19-Jan-20</Tanggal>
+  <Jam>23:58:20 WIB</Jam>
+  <point><coordinates>123.89,-0.2</coordinates></point>
+  <Lintang>0.2 LS</Lintang>
+  <Bujur>123.89 BT</Bujur>
+  <Magnitude>6.6 SR</Magnitude>
+  <Kedalaman>95 Km</Kedalaman>
+  <_symbol>../imagesSWF/k3.swf</_symbol>
+  <Wilayah>64 km BaratDaya BOLAANGUKI-BOLSEL-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>19-Jan-20</Tanggal>
+  <Jam>07:14:40 WIB</Jam>
+  <point><coordinates>139.62,-2.67</coordinates></point>
+  <Lintang>2.67 LS</Lintang>
+  <Bujur>139.62 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>63 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>43 km BaratLaut KAB-JAYAPURA-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>18-Jan-20</Tanggal>
+  <Jam>23:38:13 WIB</Jam>
+  <point><coordinates>139.64,-2.71</coordinates></point>
+  <Lintang>2.71 LS</Lintang>
+  <Bujur>139.64 BT</Bujur>
+  <Magnitude>6.3 SR</Magnitude>
+  <Kedalaman>56 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>39 km BaratLaut KAB-JAYAPURA-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>18-Jan-20</Tanggal>
+  <Jam>08:31:15 WIB</Jam>
+  <point><coordinates>132.04,-6.64</coordinates></point>
+  <Lintang>6.64 LS</Lintang>
+  <Bujur>132.04 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>82 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>132 km BaratDaya MALUKUTENGGARA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>15-Jan-20</Tanggal>
+  <Jam>23:22:13 WIB</Jam>
+  <point><coordinates>123.79,-9.27</coordinates></point>
+  <Lintang>9.27 LS</Lintang>
+  <Bujur>123.79 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>96 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>80 km BaratLaut KAB-KUPANG-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>15-Jan-20</Tanggal>
+  <Jam>15:25:51 WIB</Jam>
+  <point><coordinates>138.9,-1.7</coordinates></point>
+  <Lintang>1.7 LS</Lintang>
+  <Bujur>138.9 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>23 km TimurLaut SARMI-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>15-Jan-20</Tanggal>
+  <Jam>14:55:30 WIB</Jam>
+  <point><coordinates>124.11,-10.53</coordinates></point>
+  <Lintang>10.53 LS</Lintang>
+  <Bujur>124.11 BT</Bujur>
+  <Magnitude>5.9 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>64 km Tenggara KAB-KUPANG-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>10-Jan-20</Tanggal>
+  <Jam>07:13:11 WIB</Jam>
+  <point><coordinates>127.51,2.4</coordinates></point>
+  <Lintang>2.4 LU</Lintang>
+  <Bujur>127.51 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>23 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>91 km BaratLaut TOBELO-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>08-Jan-20</Tanggal>
+  <Jam>11:11:44 WIB</Jam>
+  <point><coordinates>125.4,5.06</coordinates></point>
+  <Lintang>5.06 LU</Lintang>
+  <Bujur>125.4 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>161 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>07-Jan-20</Tanggal>
+  <Jam>13:05:18 WIB</Jam>
+  <point><coordinates>96.24,2.29</coordinates></point>
+  <Lintang>2.29 LU</Lintang>
+  <Bujur>96.24 BT</Bujur>
+  <Magnitude>6.4 SR</Magnitude>
+  <Kedalaman>13 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>24 km BaratDaya SINABANG-ACEH</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>07-Jan-20</Tanggal>
+  <Jam>05:31:52 WIB</Jam>
+  <point><coordinates>118.38,-11.52</coordinates></point>
+  <Lintang>11.52 LS</Lintang>
+  <Bujur>118.38 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>222 km BaratDaya WANOKAKA-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>06-Jan-20</Tanggal>
+  <Jam>14:25:34 WIB</Jam>
+  <point><coordinates>125.35,5.12</coordinates></point>
+  <Lintang>5.12 LU</Lintang>
+  <Bujur>125.35 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>168 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>06-Jan-20</Tanggal>
+  <Jam>06:12:23 WIB</Jam>
+  <point><coordinates>107.34,-8.15</coordinates></point>
+  <Lintang>8.15 LS</Lintang>
+  <Bujur>107.34 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>120 km BaratDaya KAB-GARUT-JABAR</Wilayah>
+ </gempa>
+</Infogempa>

@@ -1,0 +1,22 @@
+{
+    "Infogempa": {
+        "gempa": {
+            "Tanggal": "07-Mar-20",
+            "Jam": "18:35:26 WIB",
+            "point": {
+                "coordinates": "128.76,-7.49"
+            },
+            "Lintang": "7.49 LS",
+            "Bujur": "128.76 BT",
+            "Magnitude": "5.2 SR",
+            "Kedalaman": "154 Km",
+            "_symbol": "imagesSWF/k2b.swf",
+            "Wilayah1": "130 km TimurLaut MALUKUBRTDAYA",
+            "Wilayah2": "287 km BaratLaut MALUKUTENGGARABRT",
+            "Wilayah3": "421 km Tenggara BURUSELATAN-MALUKU",
+            "Wilayah4": "430 km Tenggara AMBON-MALUKU",
+            "Wilayah5": "2441 km Tenggara JAKARTA-INDONESIA",
+            "Potensi": "tidak berpotensi TSUNAMI"
+        }
+    }
+}
