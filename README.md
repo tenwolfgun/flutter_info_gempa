@@ -1,7 +1,9 @@
-# info_gempa
+# Info Gempa
 
-Info Gempa
+Informasi gempa terkini berdasarkan data Badan Meteorologi, Klimatologi, dan Geofisika
 
-## **
-- [ ] Menampilkan info gempa bumi terkini
-- [ ] Menampilkan notifikasi mengenai info gempa setiap 15 menit
+## TODO
+
+- [x] Menampilkan info gempa bumi terkini
+- [x] Menampilkan riwayat gempa bumi
+- [x] Menampilkan notifikasi gempa bumi terkini
